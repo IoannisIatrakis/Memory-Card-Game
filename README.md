@@ -12,4 +12,4 @@ If the cards are the same the player collects the cards and wins a point.
 The cards are removed from the table. Otherwise, the cards are closed, and the next player continues. 
 The game ends when all pairs have been found. The player who has the most points wins.
 
-In order to run the program you should run **MemoryGame** Class with command line argument which is the number of pairs (java MemoryGame 5)
+In order to run the program you should run **MemoryGame** Class with command line argument which is the number of pairs (java MemoryGame 5 )
